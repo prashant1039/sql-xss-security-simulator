@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SQL Injection & XSS Attack Simulator</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛡️ SQL Injection & XSS Attack Simulator</h1>
+
+    <div class="simulator">
+      <h2>🔐 SQL Injection Simulator</h2>
+      <p id="heading">Try to log in as "admin" using SQL Injection.</p>
+      <form id="sql-form">
+        <input type="text" id="sql-username" placeholder="Username" required>
+        <input type="password" id="sql-password" placeholder="Password" required>
+        <button type="submit"><span class="material-symbols-outlined">login</span> Login</button>
+      </form>
+      <div class="output" id="sql-output"></div>
+      <a href="/reset-password" class="reset-link">🔁 Forgot Password?</a>
+    </div>
+
+    <div class="simulator">
+      <h2>💬 XSS Attack Simulator</h2>
+      <p>Post a comment. Try injecting a <code>&lt;script&gt;</code> tag to see what happens.</p>
+      <form id="xss-form">
+        <textarea id="xss-input" rows="3" placeholder="Type your comment here..."></textarea>
+        <button type="submit">Post Comment</button>
+      </form>
+      <div class="comment-box" id="xss-comments">
+        <strong>Comments:</strong><br>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

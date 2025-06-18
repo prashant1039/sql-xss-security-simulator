@@ -1,0 +1,28 @@
+[2025-06-15T10:15:53.889Z] IP: ::1, MAC: 00:1A:2B:::1, User: dad, Pass: adawdw, Remote: false
+[2025-06-15T10:25:29.941Z] IP: ::1, MAC: 00:1A:2B:::1, User: dad, Pass: kfnskf, Remote: false
+[2025-06-15T10:28:39.727Z] IP: ::1, MAC: 00:1A:2B:::1, User: admin123, Pass: fafaw, Remote: false
+[2025-06-15T15:08:14.082Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsa, Password: dsad
+[2025-06-15T15:15:05.227Z] IP: ::1, MAC: 00:1A:2B:::1, Username: ddfdf, Password: dvdvd
+[2025-06-15T15:15:36.923Z] IP: ::1, MAC: 00:1A:2B:::1, Username: wwa, Password: sssds
+[2025-06-15T15:18:45.220Z] IP: ::1, MAC: 00:1A:2B:::1, Username: scszc, Password: scsc
+[2025-06-15T15:19:05.706Z] IP: ::1, MAC: 00:1A:2B:::1, Username: scszcsdasdas, Password: scscfadwad
+[2025-06-15T15:19:07.014Z] IP: ::1, MAC: 00:1A:2B:::1, Username: scszcsdasdas, Password: scscfadwad
+[2025-06-15T15:19:12.492Z] IP: ::1, MAC: 00:1A:2B:::1, Username: dds, Password: sdasd
+[2025-06-15T15:20:28.919Z] IP: ::1, MAC: 00:1A:2B:::1, Username: admin, Password: admin
+[2025-06-15T15:28:11.783Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadas, Password: adminsdasds
+[2025-06-15T15:28:14.860Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsad, Password: adminsdasdssdsd
+[2025-06-15T15:28:17.890Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsds, Password: adminsdasdssdsddsd
+[2025-06-15T15:28:20.769Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsd, Password: adminsdasdssdsddsdsdd
+[2025-06-15T15:28:23.162Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsdsdd, Password: adminsdasdssdsddsdsddsds
+[2025-06-15T15:28:26.215Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsdsdddsds, Password: adminsdasdssdsddsdsddsdssdsd
+[2025-06-15T15:28:26.678Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsdsdddsds, Password: adminsdasdssdsddsdsddsdssdsd
+[2025-06-15T15:28:26.874Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsdsdddsds, Password: adminsdasdssdsddsdsddsdssdsd
+[2025-06-15T15:28:27.747Z] IP: ::1, MAC: 00:1A:2B:::1, Username: adminsadassdsadsdssdsdsdddsds, Password: adminsdasdssdsddsdsddsdssdsd
+[2025-06-15T15:29:24.634Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsad, Password: dsddd
+[2025-06-15T15:29:29.335Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsadsdsd, Password: dsddddsds
+[2025-06-15T15:29:30.196Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsadsdsd, Password: dsddddsds
+[2025-06-15T15:29:34.353Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsadsdsddsds, Password: dsddddsdsdsds
+[2025-06-15T15:29:36.880Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsadsdsddsdsdsds, Password: dsddddsdsdsdssdsd
+[2025-06-15T15:29:39.951Z] IP: ::1, MAC: 00:1A:2B:::1, Username: asdsadsdsddsdsdsdssdsd, Password: dsddddsdsdsdssdsddsds
+[2025-06-15T15:33:50.786Z] IP: ::1, MAC: 00:1A:2B:::1, Username: sdsd, Password: sdsd
+[2025-06-15T15:33:59.565Z] IP: ::1, MAC: 00:1A:2B:::1, Username: admin, Password: admin

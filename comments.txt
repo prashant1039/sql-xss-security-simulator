@@ -1,0 +1,14 @@
+[2025-06-15T10:26:08.110Z] it<script>ip
+
+[2025-06-15T10:28:14.065Z] link:it<script>list
+
+[2025-06-15T10:33:32.686Z] <script>alert('XSS Successful!')</script>
+
+[2025-06-15T10:33:40.177Z] <script>alert('XSS Successful!')</script>
+
+[2025-06-15T15:34:12.174Z] www.google.com
+
+[2025-06-15T15:34:18.909Z] awdawd.com
+[2025-06-15T15:34:36.613Z] fd<script>ksk
+
+[2025-06-15T15:45:13.124Z] wdadw
